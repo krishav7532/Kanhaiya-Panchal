@@ -1,2 +1,2 @@
 # Kanhaiya-Panchal
-Titile_-Techg INfo ,It is a static website 
+Titile-Techg INfo ,It is a static website by using bootstrap 
